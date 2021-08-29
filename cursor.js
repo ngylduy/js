@@ -10,7 +10,7 @@
             this._window = $(window),
                 this._document = $(document),
                 this._body = $('body'),
-                this._html = $('html'),
+                this._html = $('html')
         },
 
         methods: function (e) {
